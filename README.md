@@ -10,4 +10,6 @@ This GitHub account hosts some of my personal projects. Some of them are old, ou
 
 I've worked on robots to make them interact with humans through pose estimation, head tracking, sounds and touch interactions. The code for it isn't available here just yet as it's unfinished and unpolished, so I would still like to clean it a bit before sharing it. I am also working on a personal website where I could share my thoughts and write-ups on the projects I'm working on.
 
+If you want to contact me, don't hesitate to send me an email on the following address: saya-rbt@protonmail.com, or through my personal email address if you know it.
+
 Thank you for reading and please enjoy your browsing 😊
