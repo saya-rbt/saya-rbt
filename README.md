@@ -2,9 +2,7 @@
 
 ## I'm a Computer Science R&D engineer with a specialty in Robotics, HRI and Embedded Systems. 🤖
 
-I'm working on HRI, notably on social robots to make them interact with humans through pose estimation, head tracking, sounds and touch interactions, and multi-modal conversational analysis.
-
-I would like to become a researcher and a teacher one day, in order to gather as much knowledge as I can since I love learning, as well as sharing that knowledge to anyone else who might be interested in it.
+I'm working on HRI, notably on social robots to make them interact with humans through pose estimation, head tracking, sounds and touch interactions, and multi-modal conversational analysis. I also sometimes work on embedded software, automation and Linux administration on my free time.
 
 This GitHub account hosts some of my personal projects. Some of them are old, outdated or even not *that* great, but I wanted to make them public nonetheless because they might be useful to someone, who knows?
 
