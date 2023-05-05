@@ -8,6 +8,6 @@ I'm currently working as a Systems Administrator and DevOps, automating infrastr
 
 This GitHub account hosts some of my personal projects. Some of them are old, outdated or even not *that* great, but I wanted to make them public nonetheless because they might be useful to someone, who knows?
 
-If you would like to contact me, don't hesitate to send me an email on the following address: saya-rbt(at)proton(dot)me, or through my personal email address if you know it.
+If you would like to contact me, don't hesitate to send me an email on the following address: saya-rbt (at) proton (dot) me, or through my personal email address if you know it.
 
 Thank you for reading and please enjoy your browsing 😊
